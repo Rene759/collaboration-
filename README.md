@@ -4,7 +4,7 @@ this is Lawrencehouse collaboration
 
 ## contributors 
 
-@ patrick 
-@ Hirwa 
-@ Rene 
-@ lawrence house family 
+@Patrick 
+@Hirwa 
+@Rene 
+@Lawrence house family 
